@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Hello World</title>
+
+  <style>
+
+    body {
+
+      background-color: black;
+
+      color: white;
+
+      margin: 0;
+
+      padding: 0;
+
+    }
+
+    h1 {
+
+      text-align: center;
+
+      background-color: red;
+
+      margin: 0;
+
+      padding: 20px 0;
+
+    }
+
+    p {
+
+      margin-left: 10%;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <h1>Hello World</h1>
+
+  <p>My name is Rancho</p>
+
+</body>
+
+</html>
+
